@@ -5,6 +5,8 @@
 Быстрая смена региона для STEAM клиента игры **STALZONE**  
 Не слетает после обновлений игры.
 
+**[English](README.en.md)** · Русский
+
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Windows](https://img.shields.io/badge/OS-Windows%2010%2F11-important)
