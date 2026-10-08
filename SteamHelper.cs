@@ -218,7 +218,7 @@ namespace STALZONERegionSwitcher
             }
             else
             {
-                File.WriteAllText(forced, regionCode, Encoding.UTF8);
+                File.WriteAllText(forced, regionCode, new UTF8Encoding(false));
             }
         }
     }
